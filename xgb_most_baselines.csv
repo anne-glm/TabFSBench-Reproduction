@@ -1,0 +1,5 @@
+dataset,degree,features,accuracy,delta_accuracy,roc_auc,delta_auc,shifted_features,rmse,delta
+Credit,0.0,0.0,0.78,0.0,0.8172857314581079,0.0,,,
+Abalone,0.0,,,,,,0.0,2.257635735661802,0.0
+Electricity,0.0,,0.8201478539115084,0.0,0.8954421471682553,0.0,0.0,,
+Concrete,0.0,,,,,,0.0,5.288501430618759,0.0
